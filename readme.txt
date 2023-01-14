@@ -11,7 +11,7 @@ thank you for downloading. Have fun and tell your friends about us ;)
 Ondrej, Bootstrapious
 
 
-CSS
+CSS TESTING
 ----------
 
 The theme stylesheet is css/style.default.css. If you want to make any changes, 
